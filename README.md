@@ -1,5 +1,5 @@
 # HackerRank_certification_REST_API_intermediate
-This is a documentation of my Hackerrank solution for
+This is a documentation of my Hackerrank solution for: 
 Rest API (Intermediate) Certification 
 
 
