@@ -7,7 +7,6 @@ Rest API (Intermediate) Certification
 
 ﻿ Number of questions: 2
 
-(update Dec 2020: i have hidden the notes for time being)
 
 
 ## My profile:
